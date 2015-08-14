@@ -1,0 +1,10 @@
+{
+  "name": "angular-openapi",
+  "version": "0.0.1",
+  "main": "./angular-openapi.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-resource": "~1.4.3"
+  }
+}

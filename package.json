@@ -1,0 +1,19 @@
+{
+  "name": "openapi",
+  "version": "0.0.1",
+  "description": "AngularJS module for OpenAPI",
+  "main": "openapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monsterwater/angular-openapi.git"
+  },
+  "keywords": [
+    "angular",
+    "openapi"
+  ],
+  "author": "monsterwater <github@qq.com>",
+  "license": "MIT"
+}
